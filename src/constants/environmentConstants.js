@@ -1,0 +1,6 @@
+export const {
+  HTTP_LINK_URL,
+  WS_LINK_URL,
+  WORK_MODEL_FILENAME_FORMAT,
+  WORK_COVER_FILENAME_FORMAT
+} = window.env;
